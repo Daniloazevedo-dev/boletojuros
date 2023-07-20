@@ -21,7 +21,7 @@ public class BoletoCalculado {
 
     private LocalDate dataVencimento;
 
-    private BigDecimal dataPagamento;
+    private LocalDate dataPagamento;
 
     private BigDecimal juros;
 
